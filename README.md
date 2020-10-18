@@ -2,12 +2,12 @@
 <Strong>To Install The System Follow The Below Instructions</strong><br>
 <ul>
 <li>Clone repository to local machine.</li>
-<li>Run cmd cp env.example to .env</li>
+<li>Run cmd cp .env.example .env</li>
 <li>Run cmd Composer install</li>
 <li>Create database</li>
 <li>Update database details in .env file</li>
 <li>Run cmd php artisan key:generate</li>
-<li>Run cmd php config:cache</li>
+<li>Run cmd php artisan config:cache</li>
 <li>Run cmd php artisan migrate</li>
 <li>Run cmd php artisan db:seed</li>
 <li>Run cmd php artisan storage:link</li>
