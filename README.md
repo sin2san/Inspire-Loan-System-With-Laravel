@@ -1,3 +1,4 @@
+<Strong>README</strong><br>
 <ul>
 <li>Clone repository to local machine.</li>
 <li>Run cmd cp env.example to .env</li>
