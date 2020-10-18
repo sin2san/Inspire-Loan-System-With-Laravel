@@ -1,4 +1,5 @@
-<Strong>README</strong><br>
+<p>This system is about a authenticated customer will apply for loan, where authenticated admin will approve / reject the loan and authenticated customer will have a weekly repayment amount to be paid for approved loan.</p>
+<Strong>To Install The System Follow The Below Instructions</strong><br>
 <ul>
 <li>Clone repository to local machine.</li>
 <li>Run cmd cp env.example to .env</li>
